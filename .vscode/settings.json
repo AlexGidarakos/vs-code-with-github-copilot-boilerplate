@@ -10,5 +10,10 @@
     {
       "file": ".github/reviews.instructions.md"
     }
+  ],
+  "github.copilot.chat.commitMessageGeneration.instructions": [
+    {
+      "file": ".github/commits.instructions.md"
+    }
   ]
 }
