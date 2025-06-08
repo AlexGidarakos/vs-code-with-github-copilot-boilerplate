@@ -15,5 +15,10 @@
     {
       "file": ".github/commit.instructions.md"
     }
+  ],
+  "github.copilot.chat.pullRequestDescriptionGeneration.instructions": [
+    {
+      "file": ".github/pr.instructions.md"
+    }
   ]
 }
