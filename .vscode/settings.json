@@ -1,4 +1,9 @@
 {
   "editor.tabSize": 2,
-  "github.copilot.chat.codeGeneration.useInstructionFiles": true
+  "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+  "github.copilot.chat.testGeneration.instructions": [
+    {
+      "file": ".github/tests.instructions.md"
+    }
+  ]
 }
