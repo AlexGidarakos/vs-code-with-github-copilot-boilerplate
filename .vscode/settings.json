@@ -3,17 +3,17 @@
   "github.copilot.chat.codeGeneration.useInstructionFiles": true,
   "github.copilot.chat.testGeneration.instructions": [
     {
-      "file": ".github/tests.instructions.md"
+      "file": ".github/test.instructions.md"
     }
   ],
   "github.copilot.chat.reviewSelection.instructions": [
     {
-      "file": ".github/reviews.instructions.md"
+      "file": ".github/review.instructions.md"
     }
   ],
   "github.copilot.chat.commitMessageGeneration.instructions": [
     {
-      "file": ".github/commits.instructions.md"
+      "file": ".github/commit.instructions.md"
     }
   ]
 }
