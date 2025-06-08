@@ -5,5 +5,10 @@
     {
       "file": ".github/tests.instructions.md"
     }
+  ],
+  "github.copilot.chat.reviewSelection.instructions": [
+    {
+      "file": ".github/reviews.instructions.md"
+    }
   ]
 }
